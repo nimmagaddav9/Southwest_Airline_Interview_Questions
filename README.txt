@@ -8,8 +8,8 @@ used middleware such as redux-saga to handle asynchronous tasks such as API call
 The new initiative worked on Miles-Pooling( points you get after traveling), TSA Precheck, Account security and management features, and Under18.
 
 Challenges? 
-Upstreaming the code changes from development to staging was not initially setup. 
-Started documenting the release activities by collaborating with backend developers and meeting the deadline by 5 PM CST on Wednesday.
+Initially worked on Sign-in features where account gets locked if you answer 2 questions wrong. Then account is hard locked.
+I need to request a backend developer to unlock it. I have created a list of steps needed to unlock and account where it has bunch of calls within postman and made it simple.
 
 Tickets?  Dotcom migration stories, MyAccount, and MyUnited new features added.
 Start? End?  
