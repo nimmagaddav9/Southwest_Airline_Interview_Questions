@@ -1,27 +1,55 @@
 # Southwest_Airline_Interview_Questions
 
-Features build? 
+Q1: Features build? 
 
 Vijay Nimmagadda here, Austin, Texas.
 I am a core UI Developer with 10+ years of experience building .com websites for different organizations using HTML5, CSS3, JavaScript, React.js, and Redux. 
-
 In the past 2 years, I worked on the React migration team, where I converted the .net pages to react on united.com. 
-Frontend is React, backend is Java and used ATMOS library for CSS styling.
-Worked on Forgot password, Forgot MileagePlus number, security questions, Sign-in features, Miles-Pooling, United Club pass,  Recent Activity, dashboard updates and KTN(Known Traveler Number), 
-Accessibility guidelines features on united.com.
+Frontend is React, and used ATMOS (Own library) components used company wide.
+
+Worked on Security features for users where they can manage there account like Forgot password, Forgot MileagePlus number, security questions, Sign-in features, Miles-Pooling, United Club pass,  Recent Activity, dashboard updates and KTN(Known Traveler Number), Accessibility guidelines features on united.com.
+
 used middleware such as redux-saga to handle asynchronous tasks such as API calls, data fetching, and impure actions in a more organized and efficient way.
+
 The new initiative worked on Miles-Pooling( points you get after traveling), TSA Precheck, Account security and management features, and Under18.
 
 Previously worked with Accelerator team for Visa Inc. remediation of MBDA modules like Application Management, Account Management, Portfolio Management, Analytics, Recurring billing, Virtual Terminal, etc for bank users like Wells Fargo,  Bank of America, etc
 
-Capital Group worked on DAVIS Project. Davis stands for Data visualization where we build different highcharts using react and integrate into the AEM., the backend is Java. 
-Previously I worked on Creative Workbench, a writing tool where articles are published on capital group websites.
+Capital Group worked on DAVIS Project. Davis stands for Data visualization where we build different highcharts using react and integrate into the AEM., the backend is Java. Previously I worked on Creative Workbench, a writing tool where articles are published on capital group websites.
 
 At Cerner Corporation worked on the medical examination forms.
 
 In Office Depot worked on black Friday reporting.
 
 Satinos Technologies created a tax portal and a schoomin website for the Vignan schools.
+
+Q2: how the daily scrum meetings were:  
+15 minutes what we did yesterday, today, if there is blocker discuss it end of the meeting. Chat button, integrarted it is not working, backend team asked need to meet pre-conditions. Works on environment dev, staging in particular time 9am -9pm EST.
+
+
+Q3: Size of the team: 10, 3 fe, 3be, 1 scrum master, 1 manager, 1 lead, 3 product owners from myTeam
+
+Q4: what part you played: Senior UI Developer
+Q5: how you take initiative on the work flow/ features. They like the leadership and mentoring.
+Mentored the new joines on how the app works and architecture, share confluence notes I prepared. 
+code review done with peers.
+I took care of the release stuff and mostly new Epic Branch after the release.
+
+q6: Code Reviews: 
+naming convention is checked. 
+Don’t repeat yourself. 
+If we can convert the particular logic functional component into new Hook which can reused. Ex: Use Screensize hook to check desktop, mobile or tablet.
+If the code is company standards or architecture – Containers, components, folder structure has been organized.
+
+q7: client facing projects: All projects – United.com
+q8: ecommerce: office depot – black Friday reporting
+q9: mobile vs internal applications
+I have done personal projects on react native for learning purposes. It mostly uses React-EcoSystem.  We don’t use <div><p> but mobile components from react native library like <TEXT> <VIEW><ScrollView>
+
+q10: He will also ask about your interest in being in the Dallas/Fort Worth area and will reconfirm when you are willing to relocate to the area. YES
+
+===========================================================
+
 Challenges? 
 Initially worked on Sign-in features where the account gets locked if you answer 2 questions wrong. Then the account is hard locked.
 I need to request a backend developer unlock it. I have created a list of steps needed to unlock and account where it has a bunch of calls within Postman and made it simple.
