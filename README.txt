@@ -100,3 +100,76 @@ don't import functional components.
 load component by component.
 create small component by webpack
 performance is important.
+==============================================================================
+
+Interview 2:
+
+1. Hello, vijay? how is your day?
+
+2. tell me little bit about your background, and experience.
+i am working for united.com
+In the past 2 years, I worked on the React migration team, where I converted the .net pages to react. 
+Frontend is React, backend is Java and used ATMOS library for CSS styling.
+Worked on Forgot password, Forgot MileagePlus number, security questions, Sign-in features, Miles-Pooling, United Club pass,  Recent Activity, dashboard updates and KTN(Known Traveler Number), Accessibility guidelines features on united.com.
+used middleware such as redux-saga to handle asynchronous tasks such as API calls, data fetching, and impure actions in a more organized and efficient way.
+The new initiative worked on Miles-Pooling( points you get after traveling), TSA Precheck, Account security and management features, and Under18.
+
+3. What is new in React.js 18?
+concurrency,
+automatic baching.
+useag,
+suspense on server
+hooks
+api 
+create route
+hydrate route
+strict mode.
+
+4. react.js 17 upgrade 18 steps to follow
+change the index.js file
+previous reactdom.render Now Reactdom.createRoute
+
+5. What is Automatic batching in react 18?
+react 18 batches the setTimeout, promises, callback
+
+6. what are transitions? how are they different from debouncing from setTimeout?
+
+transition new Feature in React 18, it doesn't freeze your screen previous it used to stop.
+transition takes a low-priority que and executes. 
+setTimeout with transition we can't do that.
+
+7. What is suspense on the server?
+it comes from next.js from react. Now react18 is to add the functionality.
+server side rendering.
+Now react 18, server side rendering will display on the screen.
+
+8. What is reconciliation?
+react compares the actual page/ DOM to possibility different one. if it requires the update renders the DOM.
+Comparision between the DOM.
+
+List of users, map(), for loop --> add key props
+
+9. Higher order component? HOC
+ higher-order component (HOC) is an advanced technique in React for reusing component logic.
+Concretely, a higher-order component is a function that takes a component and returns a new component.
+const EnhancedComponent = higherOrderComponent(WrappedComponent);
+
+helps reusability.
+adds functionality
+react redux we use connect
+
+10. what are hooks used in HOC? 
+we use custom hooks for reusability
+
+11. techniques to improve performance?
+react.memo - memoize entire component.
+useMemo, useCallback to store.
+lazy loading - load the component when the screen is loaded.
+
+12. what is key architecture difference between react and angular?
+angular is framework need to follow the convention, in react we use Virtual DOM and 1 -way data binding. angular uses real DOM, 2-way data binding.
+
+13. why render? how to prevent re-rendering
+props or state of component change it will re-render. 
+we can prevent shouldComponentUpdate method.
+use hooks like usecallback, usememo for re-rendering.
