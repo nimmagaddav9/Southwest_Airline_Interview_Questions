@@ -14,7 +14,8 @@ The new initiative worked on Miles-Pooling( points you get after traveling), TSA
 
 Previously worked with Accelerator team for Visa Inc. remediation of MBDA modules like Application Management, Account Management, Portfolio Management, Analytics, Recurring billing, Virtual Terminal, etc for bank users like Wells Fargo,  Bank of America, etc
 
-Capital Group worked on DAVIS Project. Davis stands for Data visualization where we build different highcharts using react and integrate into the AEM., the backend is Java. Previously I worked on Creative Workbench, a writing tool where articles are published on capital group websites.
+Capital Group worked on DAVIS Project. Davis stands for Data visualization where we build different highcharts using react and integrate into the AEM., the backend is Java. 
+Previously I worked on Creative Workbench, a writing tool where articles are published on capital group websites.
 
 At Cerner Corporation worked on the medical examination forms.
 
