@@ -1,12 +1,25 @@
 # Southwest_Airline_Interview_Questions
 
 Features build? 
-In the past 2 years, I worked on the React migration team, where I converted the .net pages to react. 
+
+I am a core UI Developer with 10+ years of experience building .com websites for different organizations using HTML5, CSS3, JavaScript, React.js, and Redux. 3-4 years react and ecosystems, redux, and state management.
+
+In the past 2 years, I worked on the React migration team, where I converted the .net pages to react on united.com. 
 Frontend is React, backend is Java and used ATMOS library for CSS styling.
-Worked on Forgot password, Forgot MileagePlus number, security questions, Sign-in features, Miles-Pooling, United Club pass,  Recent Activity, dashboard updates and KTN(Known Traveler Number), 
-Accessibility guidelines features on united.com.
+Worked on Forgot password, Forgot MileagePlus number, security questions, Sign-in features, Miles-Pooling, United Club pass,  Recent Activity, dashboard updates and KTN(Known Traveler Number),
+Accessibility guidelines feature on united.com.
 used middleware such as redux-saga to handle asynchronous tasks such as API calls, data fetching, and impure actions in a more organized and efficient way.
 The new initiative worked on Miles-Pooling( points you get after traveling), TSA Precheck, Account security and management features, and Under18.
+
+Previously worked with Accelerator team for Visa Inc. remediation of MBDA modules like Application Management, Account Management, Portfolio Management, Analytics, Recurring billing, Virtual Terminal, etc for bank users like Wells Fargo,  Bank of America, etc
+
+Capital Group worked on DAVIS Project. Davis stands for Data visualization where we build different highcharts using react and integrate into the AEM., the backend is Java. Previously I worked on Creative Workbench, a writing tool where articles are published on capital group websites.
+
+At Cerner Corporation worked on the medical examination forms.
+
+In Office Depot worked on black Friday reporting.
+
+Satinos Technologies created a tax portal and a schoomin website for the Vignan schools.
 
 Challenges? 
 Initially worked on Sign-in features where the account gets locked if you answer 2 questions wrong. Then the account is hard locked.
