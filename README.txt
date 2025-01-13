@@ -39,10 +39,9 @@ It is a recent project. lot of times we have to deal with legacy code. we have t
 6. do you have experience in class-based components? years
 
 7. if you starting new project today? which components will you use?
-it depends on the project. if project doesn't have complicated state i would choose functional components. really like hooks.
-if there is complicated logic then i will pick react class components. 
-if want to redux then class components.
-mixing and matching, simplier components, functional components.
+For most use cases, functional components with Hooks are the recommended approach.
+Use class components when you need advanced features like lifecycle methods or error boundaries.
+Consider the complexity of your component, the size of your project, and your team's familiarity with the different approaches.
 
 8. How does React.js work? React virtual DOM work?
 First for HTML <p> tag <div> does some things. ability to use html components with added functionality with JS.
