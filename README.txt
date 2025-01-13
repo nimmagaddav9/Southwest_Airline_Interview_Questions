@@ -3,8 +3,7 @@
 Features build? 
 
 Vijay Nimmagadda here, Austin, Texas.
-I am a core UI Developer with 10+ years of experience building .com websites for different organizations using HTML5, CSS3, JavaScript, React.js, and Redux. 3-4 years react and ecosystems, 
-redux, and state management.
+I am a core UI Developer with 10+ years of experience building .com websites for different organizations using HTML5, CSS3, JavaScript, React.js, and Redux. 
 
 In the past 2 years, I worked on the React migration team, where I converted the .net pages to react on united.com. 
 Frontend is React, backend is Java and used ATMOS library for CSS styling.
