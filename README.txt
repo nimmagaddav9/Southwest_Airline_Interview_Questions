@@ -187,3 +187,33 @@ angular is framework need to follow the convention, in react we use Virtual DOM 
 props or state of component change it will re-render. 
 we can prevent shouldComponentUpdate method.
 use hooks like usecallback, usememo for re-rendering.
+
+================================================================
+
+Worked on hooks like useState, useEffect, useContext, and useReducer to manage state and side effects in functional components. 
+useState
+Storing form input values
+Toggling UI elements (e.g. modals, dropdowns)
+Maintaining component-specific data.
+
+useEffect
+Fetching data from an API
+Setting up event listeners
+Updating the document title
+Cleaning up resources (e.g. cancelling subscriptions)
+
+useContext
+Theming
+User authentication state
+Localization
+
+
+useReducer
+Complex state updates
+When state logic becomes too complicated for useState
+Managing form state with multiple fields
+
+
+
+
+
