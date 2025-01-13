@@ -3,11 +3,13 @@
 Features build? 
 
 Vijay Nimmagadda here, Austin, Texas.
-I am a core UI Developer with 10+ years of experience building .com websites for different organizations using HTML5, CSS3, JavaScript, React.js, and Redux. 3-4 years react and ecosystems, redux, and state management.
+I am a core UI Developer with 10+ years of experience building .com websites for different organizations using HTML5, CSS3, JavaScript, React.js, and Redux. 3-4 years react and ecosystems, 
+redux, and state management.
 
 In the past 2 years, I worked on the React migration team, where I converted the .net pages to react on united.com. 
 Frontend is React, backend is Java and used ATMOS library for CSS styling.
-Worked on Forgot password, Forgot MileagePlus number, security questions, Sign-in features, Miles-Pooling, United Club pass,  Recent Activity, dashboard updates and KTN(Known Traveler Number), Accessibility guidelines features on united.com.
+Worked on Forgot password, Forgot MileagePlus number, security questions, Sign-in features, Miles-Pooling, United Club pass,  Recent Activity, dashboard updates and KTN(Known Traveler Number), 
+Accessibility guidelines features on united.com.
 used middleware such as redux-saga to handle asynchronous tasks such as API calls, data fetching, and impure actions in a more organized and efficient way.
 The new initiative worked on Miles-Pooling( points you get after traveling), TSA Precheck, Account security and management features, and Under18.
 
