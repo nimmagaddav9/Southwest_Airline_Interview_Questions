@@ -48,7 +48,7 @@ frontend is react
 no, just react.js 
 
 5. Is your project build on class based or functional based components?
-It is a recent project. lot of times we have to deal with legacy code. we have to use functional components.
+It is a recent project. lot of times we have to deal with legacy code. I have to use functional components.
 
 
 6. do you have experience in class-based components? years
@@ -77,7 +77,8 @@ redux saga? Inorder to manipulate the store Actions(request, response).
 Redux thunx is an outdated library.
 Saga is Advanced library.
 
-Redux is a predictable state container for JavaScript applications. It helps to you write applications, run in different environments and easy to test. And simply we called as Redux is a state management tool.
+Redux is a predictable state container for JavaScript applications. It helps to you write applications, run in different environments and easy to test. 
+And simply we called as Redux is a state management tool.
 Components in redux
 Actions -->Input Parameters Ex: Deposit and Withdraw money from ATM
 Store --> Main Server
@@ -279,6 +280,7 @@ and images are inline elements, which means they will automatically be placed ne
 allowing it to behave like an inline element (flowing with text) while also enabling the ability to set specific width and height values, similar to a block element
 ---
 ### CSS Question
+
 - What are different positions in CSS ?
 The position property specifies the type of positioning method used for an element.
 
@@ -425,6 +427,83 @@ ReferenceError: y is not defined
 Node.js v22.12.0
 
 === Code Exited With Errors ===
+
+===========================================================
+
+React component lifecycle has three categories – Mounting, Updating and Unmounting.
+Mounting – Birth of your component
+Update – Growth of your component
+Unmount – Death of your component
+
+React Component LifeCycle Hooks
+
+        1. constructor
+        2. componentWillMount()
+        3. render()
+        4. componentDidMount()
+        5. componentWillReceiveProps()
+        6. shouldComponentUpdate()
+
+        // component kill methods
+
+        7. componentWillUpdate()
+        8. componentDidUpdate()
+        9. componentWillUnmount()
+
+Recently Added LifeCycle Hooks
+
+Context API, useEffect, useState --- Newly added version by version
+
+Explanation:
+
+# Constructor()
+
+        constructor will execute at booting time of component --constructor will execute only once
+        Define state in constructor
+
+# componentWillMount()
+
+        componentWillMount() will execute after constructor
+        componentWillMount() will execute only once
+        in general we will do the initial modifications in state
+        in general we will set global parameters like width, height
+
+# render()
+
+        after componentWillMount() automatically render() function will execute
+        render() is mandatory lifecycle hook(main lifecycle hook)
+        in general, we will place presentation logic in render()
+        when ever change detected in state or props automatically this lifecycle hooks will execute
+
+# componentDidMount()
+
+        after render function immediately componentDidMount() life cycle hook will execute
+        in general we will make asynchronous calls in ComponentWillMount()
+        this is recommended state to change the state of component
+
+# componentWillReceiveProps()
+
+        when component will receive props from redux
+
+# shouldComponentUpdate()
+
+        if we want to update the state return "true" else "false"
+
+# UNSAFE_componentWillUpdate()
+
+        death method --> perform cleanup operations
+
+# componentDidUpdate()
+
+        if we integrate any third party UI elements
+        plugin logic will write here
+
+# componentWillUnmount()
+
+        Before killing the component componentWillUnmount is executed.
+        death method --> perform cleanup operations
+
+
 
 
 
