@@ -27,7 +27,7 @@ Q2: how the daily scrum meetings were:
 15 minutes what we did yesterday, today, if there is blocker discuss it end of the meeting. Chat button, integrarted it is not working, backend team asked need to meet pre-conditions. Works on environment dev, staging in particular time 9am -9pm EST.
 
 
-Q3: Size of the team: 10, 3 fe, 3be, 1 scrum master, 1 manager, 1 lead, 3 product owners from myTeam
+Q3: Size of the team: 10, 3 fe, 3be, 2QA, 1 scrum master, 1 manager, 1 lead, 3 product owners from myTeam
 
 Q4: what part you played: Senior UI Developer
 Q5: how you take initiative on the work flow/ features. They like the leadership and mentoring.
